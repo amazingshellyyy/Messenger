@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/shelly/AndroidStudioProjects/Messenger/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3f2ace079ea52558c59fea15602d63e192ca3d47">
+        <dex dex="/Users/shelly/AndroidStudioProjects/Messenger/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7537d9e2ed6664cf2920400fb551f7d9d37a3016/classes.dex" />
+    </item>
+    <item
+        jar="/Users/shelly/AndroidStudioProjects/Messenger/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="778e5e75271c4dbc8a313b3c665658be4e3a82ce">
+        <dex dex="/Users/shelly/AndroidStudioProjects/Messenger/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8da0fe1721b2a30d943ac435603f8d7ce1194520/classes.dex" />
+    </item>
+    <item
+        jar="/Users/shelly/AndroidStudioProjects/Messenger/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/shelly/AndroidStudioProjects/Messenger/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_c609eaf45b74b616c3a8f86fa5f6c71184381eac/classes.dex" />
+    </item>
+    <item
+        jar="/Users/shelly/AndroidStudioProjects/Messenger/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/shelly/AndroidStudioProjects/Messenger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_7cfa43312321181aaff26d1543241c8285309df5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/shelly/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/shelly/AndroidStudioProjects/Messenger/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_c7487851d8608f35a57dbf3dc05a27463b611506/classes.dex" />
+    </item>
+    <item
+        jar="/Users/shelly/AndroidStudioProjects/Messenger/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/shelly/AndroidStudioProjects/Messenger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_f8e717b6694112b270077691fb4122cbcf1e9fca/classes.dex" />
+    </item>
+    <item
+        jar="/Users/shelly/AndroidStudioProjects/Messenger/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/shelly/AndroidStudioProjects/Messenger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_d1b70b3050760cc9233c88195ac8e2c0b1abedd9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/shelly/AndroidStudioProjects/Messenger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/shelly/AndroidStudioProjects/Messenger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_f6884e9f688150128a06f8bc73cf473e525f4dc8/classes.dex" />
+    </item>
+
+</items>
